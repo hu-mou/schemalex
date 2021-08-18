@@ -8,9 +8,9 @@ import (
 	"os"
 	"runtime"
 
+	"github.com/hu-mou/schemalex"
+	"github.com/hu-mou/schemalex/diff"
 	"github.com/pkg/errors"
-	"github.com/schemalex/schemalex"
-	"github.com/schemalex/schemalex/diff"
 )
 
 func main() {
