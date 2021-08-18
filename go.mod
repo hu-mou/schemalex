@@ -1,4 +1,4 @@
-module github.com/schemalex/schemalex
+module github.com/hu-mou/schemalex
 
 go 1.13
 
